@@ -1,0 +1,2201 @@
+[
+    {
+        "id": 1,
+        "picture": "https://example.com/toy_car_1.jpg",
+        "name": "Speedy Racer",
+        "rating": 4.5,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/speedy_racer_red.jpg",
+                "toy_name": "Speedy Racer - Red Edition",
+                "seller": "ToyMart",
+                "available_quantity": 50,
+                "price": 19.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/speedy_racer_blue.jpg",
+                "toy_name": "Speedy Racer - Blue Edition",
+                "seller": "PlayZone",
+                "available_quantity": 30,
+                "price": 24.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/speedy_racer_green.jpg",
+                "toy_name": "Speedy Racer - Green Edition",
+                "seller": "Toys Emporium",
+                "available_quantity": 20,
+                "price": 22.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/speedy_racer_yellow.jpg",
+                "toy_name": "Speedy Racer - Yellow Edition",
+                "seller": "KidZone",
+                "available_quantity": 15,
+                "price": 26.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/speedy_racer_pink.jpg",
+                "toy_name": "Speedy Racer - Pink Edition",
+                "seller": "Toy Universe",
+                "available_quantity": 25,
+                "price": 21.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/speedy_racer_black.jpg",
+                "toy_name": "Speedy Racer - Black Edition",
+                "seller": "FunPlay Store",
+                "available_quantity": 10,
+                "price": 29.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/speedy_racer_white.jpg",
+                "toy_name": "Speedy Racer - White Edition",
+                "seller": "Happy Toys",
+                "available_quantity": 18,
+                "price": 23.99
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/speedy_racer_orange.jpg",
+                "toy_name": "Speedy Racer - Orange Edition",
+                "seller": "SuperKids",
+                "available_quantity": 12,
+                "price": 27.49
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/speedy_racer_purple.jpg",
+                "toy_name": "Speedy Racer - Purple Edition",
+                "seller": "Kids Emporium",
+                "available_quantity": 22,
+                "price": 25.99
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/speedy_racer_silver.jpg",
+                "toy_name": "Speedy Racer - Silver Edition",
+                "seller": "ToyRus",
+                "available_quantity": 8,
+                "price": 31.99
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "picture": "https://example.com/toy_car_2.jpg",
+        "name": "Turbo Cruiser",
+        "rating": 4.2,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/turbo_cruiser_red.jpg",
+                "toy_name": "Turbo Cruiser - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 45,
+                "price": 21.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/turbo_cruiser_blue.jpg",
+                "toy_name": "Turbo Cruiser - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 35,
+                "price": 25.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/turbo_cruiser_green.jpg",
+                "toy_name": "Turbo Cruiser - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 28
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/turbo_cruiser_yellow.jpg",
+                "toy_name": "Turbo Cruiser - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 18,
+                "price": 27.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/turbo_cruiser_pink.jpg",
+                "toy_name": "Turbo Cruiser - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 20,
+                "price": 22.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/turbo_cruiser_black.jpg",
+                "toy_name": "Turbo Cruiser - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 14,
+                "price": 29.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/turbo_cruiser_white.jpg",
+                "toy_name": "Turbo Cruiser - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 25,
+                "price": 24.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/turbo_cruiser_orange.jpg",
+                "toy_name": "Turbo Cruiser - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 30,
+                "price": 26.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/turbo_cruiser_purple.jpg",
+                "toy_name": "Turbo Cruiser - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 23,
+                "price": 28.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/turbo_cruiser_silver.jpg",
+                "toy_name": "Turbo Cruiser - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 12,
+                "price": 31.49
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "picture": "https://example.com/toy_car_3.jpg",
+        "name": "Mini Roadster",
+        "rating": 4.8,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/mini_roadster_red.jpg",
+                "toy_name": "Mini Roadster - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 42,
+                "price": 24.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/mini_roadster_blue.jpg",
+                "toy_name": "Mini Roadster - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 37,
+                "price": 28.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/mini_roadster_green.jpg",
+                "toy_name": "Mini Roadster - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 30,
+                "price": 26.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/mini_roadster_yellow.jpg",
+                "toy_name": "Mini Roadster - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 20,
+                "price": 30.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/mini_roadster_pink.jpg",
+                "toy_name": "Mini Roadster - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 22,
+                "price": 25.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/mini_roadster_black.jpg",
+                "toy_name": "Mini Roadster - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 18,
+                "price": 32.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/mini_roadster_white.jpg",
+                "toy_name": "Mini Roadster - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 28,
+                "price": 27.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/mini_roadster_orange.jpg",
+                "toy_name": "Mini Roadster - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 32,
+                "price": 29.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/mini_roadster_purple.jpg",
+                "toy_name": "Mini Roadster - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 25,
+                "price": 31.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/mini_roadster_silver.jpg",
+                "toy_name": "Mini Roadster - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 15,
+                "price": 34.49
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "picture": "https://example.com/toy_car_4.jpg",
+        "name": "Rally Master",
+        "rating": 4.6,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/rally_master_red.jpg",
+                "toy_name": "Rally Master - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 40,
+                "price": 27.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/rally_master_blue.jpg",
+                "toy_name": "Rally Master - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 33,
+                "price": 31.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/rally_master_green.jpg",
+                "toy_name": "Rally Master - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 25,
+                "price": 29.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/rally_master_yellow.jpg",
+                "toy_name": "Rally Master - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 17,
+                "price": 33.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/rally_master_pink.jpg",
+                "toy_name": "Rally Master - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 21,
+                "price": 28.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/rally_master_black.jpg",
+                "toy_name": "Rally Master - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 16,
+                "price": 35.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/rally_master_white.jpg",
+                "toy_name": "Rally Master - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 27,
+                "price": 30.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/rally_master_orange.jpg",
+                "toy_name": "Rally Master - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 30,
+                "price": 32.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/rally_master_purple.jpg",
+                "toy_name": "Rally Master - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 23,
+                "price": 34.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/rally_master_silver.jpg",
+                "toy_name": "Rally Master - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 13,
+                "price": 37.49
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "picture": "https://example.com/toy_car_5.jpg",
+        "name": "Adventure Explorer",
+        "rating": 4.4,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/adventure_explorer_red.jpg",
+                "toy_name": "Adventure Explorer - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 38,
+                "price": 29.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/adventure_explorer_blue.jpg",
+                "toy_name": "Adventure Explorer - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 31,
+                "price": 33.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/adventure_explorer_green.jpg",
+                "toy_name": "Adventure Explorer - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 22,
+                "price": 31.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/adventure_explorer_yellow.jpg",
+                "toy_name": "Adventure Explorer - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 19,
+                "price": 35.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/adventure_explorer_pink.jpg",
+                "toy_name": "Adventure Explorer - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 24,
+                "price": 30.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/adventure_explorer_black.jpg",
+                "toy_name": "Adventure Explorer - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 15,
+                "price": 37.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/adventure_explorer_white.jpg",
+                "toy_name": "Adventure Explorer - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 28,
+                "price": 32.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/adventure_explorer_orange.jpg",
+                "toy_name": "Adventure Explorer - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 33,
+                "price": 34.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/adventure_explorer_purple.jpg",
+                "toy_name": "Adventure Explorer - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 25,
+                "price": 36.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/adventure_explorer_silver.jpg",
+                "toy_name": "Adventure Explorer - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 14,
+                "price": 39.49
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "picture": "https://example.com/toy_car_6.jpg",
+        "name": "Super Speedster",
+        "rating": 4.7,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/super_speedster_red.jpg",
+                "toy_name": "Super Speedster - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 36,
+                "price": 32.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/super_speedster_blue.jpg",
+                "toy_name": "Super Speedster - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 29,
+                "price": 36.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/super_speedster_green.jpg",
+                "toy_name": "Super Speedster - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 21,
+                "price": 34.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/super_speedster_yellow.jpg",
+                "toy_name": "Super Speedster - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 18,
+                "price": 38.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/super_speedster_pink.jpg",
+                "toy_name": "Super Speedster - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 23,
+                "price": 33.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/super_speedster_black.jpg",
+                "toy_name": "Super Speedster - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 14,
+                "price": 40.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/super_speedster_white.jpg",
+                "toy_name": "Super Speedster - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 26,
+                "price": 35.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/super_speedster_orange.jpg",
+                "toy_name": "Super Speedster - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 31,
+                "price": 37.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/super_speedster_purple.jpg",
+                "toy_name": "Super Speedster - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 24,
+                "price": 39.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/super_speedster_silver.jpg",
+                "toy_name": "Super Speedster - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 13,
+                "price": 42.49
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "picture": "https://example.com/toy_car_7.jpg",
+        "name": "Thunderbolt Sprinter",
+        "rating": 4.3,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/thunderbolt_sprinter_red.jpg",
+                "toy_name": "Thunderbolt Sprinter - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 34,
+                "price": 34.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/thunderbolt_sprinter_blue.jpg",
+                "toy_name": "Thunderbolt Sprinter - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 27,
+                "price": 38.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/thunderbolt_sprinter_green.jpg",
+                "toy_name": "Thunderbolt Sprinter - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 20,
+                "price": 36.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/thunderbolt_sprinter_yellow.jpg",
+                "toy_name": "Thunderbolt Sprinter - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 16,
+                "price": 40.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/thunderbolt_sprinter_pink.jpg",
+                "toy_name": "Thunderbolt Sprinter - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 21,
+                "price": 35.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/thunderbolt_sprinter_black.jpg",
+                "toy_name": "Thunderbolt Sprinter - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 12,
+                "price": 42.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/thunderbolt_sprinter_white.jpg",
+                "toy_name": "Thunderbolt Sprinter - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 24,
+                "price": 37.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/thunderbolt_sprinter_orange.jpg",
+                "toy_name": "Thunderbolt Sprinter - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 29,
+                "price": 39.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/thunderbolt_sprinter_purple.jpg",
+                "toy_name": "Thunderbolt Sprinter - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 22,
+                "price": 41.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/thunderbolt_sprinter_silver.jpg",
+                "toy_name": "Thunderbolt Sprinter - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 11,
+                "price": 44.49
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "picture": "https://example.com/toy_car_8.jpg",
+        "name": "Mega Drifter",
+        "rating": 4.9,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/mega_drifter_red.jpg",
+                "toy_name": "Mega Drifter - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 32,
+                "price": 39.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/mega_drifter_blue.jpg",
+                "toy_name": "Mega Drifter - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 25,
+                "price": 43.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/mega_drifter_green.jpg",
+                "toy_name": "Mega Drifter - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 18,
+                "price": 41.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/mega_drifter_yellow.jpg",
+                "toy_name": "Mega Drifter - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 14,
+                "price": 45.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/mega_drifter_pink.jpg",
+                "toy_name": "Mega Drifter - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 19,
+                "price": 40.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/mega_drifter_black.jpg",
+                "toy_name": "Mega Drifter - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 10,
+                "price": 47.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/mega_drifter_white.jpg",
+                "toy_name": "Mega Drifter - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 22,
+                "price": 42.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/mega_drifter_orange.jpg",
+                "toy_name": "Mega Drifter - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 27,
+                "price": 44.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/mega_drifter_purple.jpg",
+                "toy_name": "Mega Drifter - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 20,
+                "price": 46.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/mega_drifter_silver.jpg",
+                "toy_name": "Mega Drifter - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 9,
+                "price": 49.49
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "picture": "https://example.com/toy_car_9.jpg",
+        "name": "Cruiser King",
+        "rating": 4.1,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/cruiser_king_red.jpg",
+                "toy_name": "Cruiser King - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 30,
+                "price": 49.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/cruiser_king_blue.jpg",
+                "toy_name": "Cruiser King - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 23,
+                "price": 53.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/cruiser_king_green.jpg",
+                "toy_name": "Cruiser King - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 16,
+                "price": 51.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/cruiser_king_yellow.jpg",
+                "toy_name": "Cruiser King - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 12,
+                "price": 55.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/cruiser_king_pink.jpg",
+                "toy_name": "Cruiser King - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 17,
+                "price": 50.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/cruiser_king_black.jpg",
+                "toy_name": "Cruiser King - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 8,
+                "price": 57.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/cruiser_king_white.jpg",
+                "toy_name": "Cruiser King - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 20,
+                "price": 52.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/cruiser_king_orange.jpg",
+                "toy_name": "Cruiser King - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 25,
+                "price": 54.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/cruiser_king_purple.jpg",
+                "toy_name": "Cruiser King - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 18,
+                "price": 56.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/cruiser_king_silver.jpg",
+                "toy_name": "Cruiser King - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 7,
+                "price": 59.49
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "picture": "https://example.com/toy_car_10.jpg",
+        "name": "Off-road Warrior",
+        "rating": 4.0,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/off_road_warrior_red.jpg",
+                "toy_name": "Off-road Warrior - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 28,
+                "price": 59.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/off_road_warrior_blue.jpg",
+                "toy_name": "Off-road Warrior - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 21,
+                "price": 63.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/off_road_warrior_green.jpg",
+                "toy_name": "Off-road Warrior - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 14,
+                "price": 61.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/off_road_warrior_yellow.jpg",
+                "toy_name": "Off-road Warrior - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 10,
+                "price": 65.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/off_road_warrior_pink.jpg",
+                "toy_name": "Off-road Warrior - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 15,
+                "price": 60.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/off_road_warrior_black.jpg",
+                "toy_name": "Off-road Warrior - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 6,
+                "price": 67.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/off_road_warrior_white.jpg",
+                "toy_name": "Off-road Warrior - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 18,
+                "price": 62.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/off_road_warrior_orange.jpg",
+                "toy_name": "Off-road Warrior - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 23,
+                "price": 64.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/off_road_warrior_purple.jpg",
+                "toy_name": "Off-road Warrior - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 16,
+                "price": 66.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/off_road_warrior_silver.jpg",
+                "toy_name": "Off-road Warrior - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 5,
+                "price": 69.49
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "picture": "https://example.com/toy_car_11.jpg",
+        "name": "Street Surfer",
+        "rating": 4.6,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/street_surfer_red.jpg",
+                "toy_name": "Street Surfer - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 26,
+                "price": 49.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/street_surfer_blue.jpg",
+                "toy_name": "Street Surfer - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 19,
+                "price": 53.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/street_surfer_green.jpg",
+                "toy_name": "Street Surfer - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 12,
+                "price": 51.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/street_surfer_yellow.jpg",
+                "toy_name": "Street Surfer - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 8,
+                "price": 55.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/street_surfer_pink.jpg",
+                "toy_name": "Street Surfer - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 13,
+                "price": 50.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/street_surfer_black.jpg",
+                "toy_name": "Street Surfer - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 4,
+                "price": 57.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/street_surfer_white.jpg",
+                "toy_name": "Street Surfer - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 16,
+                "price": 52.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/street_surfer_orange.jpg",
+                "toy_name": "Street Surfer - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 21,
+                "price": 54.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/street_surfer_purple.jpg",
+                "toy_name": "Street Surfer - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 14,
+                "price": 56.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/street_surfer_silver.jpg",
+                "toy_name": "Street Surfer - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 59.49
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "picture": "https://example.com/toy_car_12.jpg",
+        "name": "Racing Champion",
+        "rating": 4.8,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/racing_champion_red.jpg",
+                "toy_name": "Racing Champion - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 24,
+                "price": 69.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/racing_champion_blue.jpg",
+                "toy_name": "Racing Champion - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 17,
+                "price": 73.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/racing_champion_green.jpg",
+                "toy_name": "Racing Champion - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 10,
+                "price": 71.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/racing_champion_yellow.jpg",
+                "toy_name": "Racing Champion - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 6,
+                "price": 75.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/racing_champion_pink.jpg",
+                "toy_name": "Racing Champion - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 11,
+                "price": 70.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/racing_champion_black.jpg",
+                "toy_name": "Racing Champion - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 2,
+                "price": 77.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/racing_champion_white.jpg",
+                "toy_name": "Racing Champion - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 14,
+                "price": 72.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/racing_champion_orange.jpg",
+                "toy_name": "Racing Champion - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 19,
+                "price": 74.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/racing_champion_purple.jpg",
+                "toy_name": "Racing Champion - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 12,
+                "price": 76.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/racing_champion_silver.jpg",
+                "toy_name": "Racing Champion - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 1,
+                "price": 79.49
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "picture": "https://example.com/toy_car_13.jpg",
+        "name": "City Drifter",
+        "rating": 4.3,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/city_drifter_red.jpg",
+                "toy_name": "City Drifter - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 22,
+                "price": 79.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/city_drifter_blue.jpg",
+                "toy_name": "City Drifter - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 15,
+                "price": 83.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/city_drifter_green.jpg",
+                "toy_name": "City Drifter - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 8,
+                "price": 81.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/city_drifter_yellow.jpg",
+                "toy_name": "City Drifter - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 4,
+                "price": 85.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/city_drifter_pink.jpg",
+                "toy_name": "City Drifter - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 9,
+                "price": 80.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/city_drifter_black.jpg",
+                "toy_name": "City Drifter - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 1,
+                "price": 87.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/city_drifter_white.jpg",
+                "toy_name": "City Drifter - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 12,
+                "price": 82.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/city_drifter_orange.jpg",
+                "toy_name": "City Drifter - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 17,
+                "price": 84.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/city_drifter_purple.jpg",
+                "toy_name": "City Drifter - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 10,
+                "price": 86.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/city_drifter_silver.jpg",
+                "toy_name": "City Drifter - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 0,
+                "price": 89.49
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "picture": "https://example.com/toy_car_14.jpg",
+        "name": "Formula X",
+        "rating": 4.7,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/formula_x_red.jpg",
+                "toy_name": "Formula X - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 20,
+                "price": 89.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/formula_x_blue.jpg",
+                "toy_name": "Formula X - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 13,
+                "price": 93.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/formula_x_green.jpg",
+                "toy_name": "Formula X - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 6,
+                "price": 91.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/formula_x_yellow.jpg",
+                "toy_name": "Formula X - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 2,
+                "price": 95.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/formula_x_pink.jpg",
+                "toy_name": "Formula X - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 7,
+                "price": 90.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/formula_x_black.jpg",
+                "toy_name": "Formula X - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 97.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/formula_x_white.jpg",
+                "toy_name": "Formula X - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 10,
+                "price": 92.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/formula_x_orange.jpg",
+                "toy_name": "Formula X - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 15,
+                "price": 94.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/formula_x_purple.jpg",
+                "toy_name": "Formula X - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 8,
+                "price": 96.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/formula_x_silver.jpg",
+                "toy_name": "Formula X - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 1,
+                "price": 99.49
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "picture": "https://example.com/toy_car_15.jpg",
+        "name": "Highway Blaster",
+        "rating": 4.5,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/highway_blaster_red.jpg",
+                "toy_name": "Highway Blaster - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 18,
+                "price": 99.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/highway_blaster_blue.jpg",
+                "toy_name": "Highway Blaster - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 11,
+                "price": 103.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/highway_blaster_green.jpg",
+                "toy_name": "Highway Blaster - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 4,
+                "price": 101.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/highway_blaster_yellow.jpg",
+                "toy_name": "Highway Blaster - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 105.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/highway_blaster_pink.jpg",
+                "toy_name": "Highway Blaster - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 5,
+                "price": 100.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/highway_blaster_black.jpg",
+                "toy_name": "Highway Blaster - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 107.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/highway_blaster_white.jpg",
+                "toy_name": "Highway Blaster - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 8,
+                "price": 102.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/highway_blaster_orange.jpg",
+                "toy_name": "Highway Blaster - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 13,
+                "price": 104.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/highway_blaster_purple.jpg",
+                "toy_name": "Highway Blaster - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 6,
+                "price": 106.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/highway_blaster_silver.jpg",
+                "toy_name": "Highway Blaster - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 2,
+                "price": 109.49
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "picture": "https://example.com/toy_car_16.jpg",
+        "name": "Neon Velocity",
+        "rating": 4.4,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/neon_velocity_red.jpg",
+                "toy_name": "Neon Velocity - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 16,
+                "price": 119.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/neon_velocity_blue.jpg",
+                "toy_name": "Neon Velocity - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 9,
+                "price": 123.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/neon_velocity_green.jpg",
+                "toy_name": "Neon Velocity - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 2,
+                "price": 121.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/neon_velocity_yellow.jpg",
+                "toy_name": "Neon Velocity - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 125.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/neon_velocity_pink.jpg",
+                "toy_name": "Neon Velocity - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 3,
+                "price": 120.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/neon_velocity_black.jpg",
+                "toy_name": "Neon Velocity - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 127.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/neon_velocity_white.jpg",
+                "toy_name": "Neon Velocity - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 6,
+                "price": 122.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/neon_velocity_orange.jpg",
+                "toy_name": "Neon Velocity - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 11,
+                "price": 124.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/neon_velocity_purple.jpg",
+                "toy_name": "Neon Velocity - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 4,
+                "price": 126.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/neon_velocity_silver.jpg",
+                "toy_name": "Neon Velocity - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 1,
+                "price": 129.49
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "picture": "https://example.com/toy_car_17.jpg",
+        "name": "Night Rider",
+        "rating": 4.6,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/night_rider_red.jpg",
+                "toy_name": "Night Rider - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 14,
+                "price": 139.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/night_rider_blue.jpg",
+                "toy_name": "Night Rider - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 7,
+                "price": 143.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/night_rider_green.jpg",
+                "toy_name": "Night Rider - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 141.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/night_rider_yellow.jpg",
+                "toy_name": "Night Rider - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 145.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/night_rider_pink.jpg",
+                "toy_name": "Night Rider - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 2,
+                "price": 140.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/night_rider_black.jpg",
+                "toy_name": "Night Rider - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 147.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/night_rider_white.jpg",
+                "toy_name": "Night Rider - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 4,
+                "price": 142.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/night_rider_orange.jpg",
+                "toy_name": "Night Rider - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 9,
+                "price": 144.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/night_rider_purple.jpg",
+                "toy_name": "Night Rider - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 3,
+                "price": 146.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/night_rider_silver.jpg",
+                "toy_name": "Night Rider - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 1,
+                "price": 149.49
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "picture": "https://example.com/toy_car_18.jpg",
+        "name": "Tornado Sprint",
+        "rating": 4.3,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/tornado_sprint_red.jpg",
+                "toy_name": "Tornado Sprint - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 12,
+                "price": 159.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/tornado_sprint_blue.jpg",
+                "toy_name": "Tornado Sprint - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 5,
+                "price": 163.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/tornado_sprint_green.jpg",
+                "toy_name": "Tornado Sprint - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 161.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/tornado_sprint_yellow.jpg",
+                "toy_name": "Tornado Sprint - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 165.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/tornado_sprint_pink.jpg",
+                "toy_name": "Tornado Sprint - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 2,
+                "price": 160.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/tornado_sprint_black.jpg",
+                "toy_name": "Tornado Sprint - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 167.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/tornado_sprint_white.jpg",
+                "toy_name": "Tornado Sprint - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 3,
+                "price": 162.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/tornado_sprint_orange.jpg",
+                "toy_name": "Tornado Sprint - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 8,
+                "price": 164.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/tornado_sprint_purple.jpg",
+                "toy_name": "Tornado Sprint - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 1,
+                "price": 166.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/tornado_sprint_silver.jpg",
+                "toy_name": "Tornado Sprint - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 1,
+                "price": 169.49
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "picture": "https://example.com/toy_car_19.jpg",
+        "name": "Classic Cruiser",
+        "rating": 4.8,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/classic_cruiser_red.jpg",
+                "toy_name": "Classic Cruiser - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 10,
+                "price": 179.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/classic_cruiser_blue.jpg",
+                "toy_name": "Classic Cruiser - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 3,
+                "price": 183.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/classic_cruiser_green.jpg",
+                "toy_name": "Classic Cruiser - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 181.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/classic_cruiser_yellow.jpg",
+                "toy_name": "Classic Cruiser - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 185.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/classic_cruiser_pink.jpg",
+                "toy_name": "Classic Cruiser - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 2,
+                "price": 180.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/classic_cruiser_black.jpg",
+                "toy_name": "Classic Cruiser - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 187.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/classic_cruiser_white.jpg",
+                "toy_name": "Classic Cruiser - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 3,
+                "price": 182.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/classic_cruiser_orange.jpg",
+                "toy_name": "Classic Cruiser - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 8,
+                "price": 184.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/classic_cruiser_purple.jpg",
+                "toy_name": "Classic Cruiser - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 1,
+                "price": 186.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/classic_cruiser_silver.jpg",
+                "toy_name": "Classic Cruiser - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 1,
+                "price": 189.49
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "picture": "https://example.com/toy_car_20.jpg",
+        "name": "Wild Streaker",
+        "rating": 4.5,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/wild_streaker_red.jpg",
+                "toy_name": "Wild Streaker - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 8,
+                "price": 199.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/wild_streaker_blue.jpg",
+                "toy_name": "Wild Streaker - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 2,
+                "price": 203.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/wild_streaker_green.jpg",
+                "toy_name": "Wild Streaker - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 201.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/wild_streaker_yellow.jpg",
+                "toy_name": "Wild Streaker - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 205.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/wild_streaker_pink.jpg",
+                "toy_name": "Wild Streaker - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 1,
+                "price": 200.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/wild_streaker_black.jpg",
+                "toy_name": "Wild Streaker - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 207.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/wild_streaker_white.jpg",
+                "toy_name": "Wild Streaker - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 2,
+                "price": 202.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/wild_streaker_orange.jpg",
+                "toy_name": "Wild Streaker - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 6,
+                "price": 204.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/wild_streaker_purple.jpg",
+                "toy_name": "Wild Streaker - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 0,
+                "price": 206.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/wild_streaker_silver.jpg",
+                "toy_name": "Wild Streaker - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 209.49
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "picture": "https://example.com/toy_car_21.jpg",
+        "name": "Extreme Thrasher",
+        "rating": 4.7,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/extreme_thrasher_red.jpg",
+                "toy_name": "Extreme Thrasher - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 6,
+                "price": 219.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/extreme_thrasher_blue.jpg",
+                "toy_name": "Extreme Thrasher - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 1,
+                "price": 223.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/extreme_thrasher_green.jpg",
+                "toy_name": "Extreme Thrasher - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 221.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/extreme_thrasher_yellow.jpg",
+                "toy_name": "Extreme Thrasher - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 225.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/extreme_thrasher_pink.jpg",
+                "toy_name": "Extreme Thrasher - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 1,
+                "price": 220.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/extreme_thrasher_black.jpg",
+                "toy_name": "Extreme Thrasher - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 227.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/extreme_thrasher_white.jpg",
+                "toy_name": "Extreme Thrasher - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 2,
+                "price": 222.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/extreme_thrasher_orange.jpg",
+                "toy_name": "Extreme Thrasher - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 5,
+                "price": 224.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/extreme_thrasher_purple.jpg",
+                "toy_name": "Extreme Thrasher - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 0,
+                "price": 226.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/extreme_thrasher_silver.jpg",
+                "toy_name": "Extreme Thrasher - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 229.49
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "picture": "https://example.com/toy_car_22.jpg",
+        "name": "Aero Thunder",
+        "rating": 4.2,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/aero_thunder_red.jpg",
+                "toy_name": "Aero Thunder - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 5,
+                "price": 239.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/aero_thunder_blue.jpg",
+                "toy_name": "Aero Thunder - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 2,
+                "price": 243.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/aero_thunder_green.jpg",
+                "toy_name": "Aero Thunder - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 241.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/aero_thunder_yellow.jpg",
+                "toy_name": "Aero Thunder - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 245.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/aero_thunder_pink.jpg",
+                "toy_name": "Aero Thunder - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 1,
+                "price": 240.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/aero_thunder_black.jpg",
+                "toy_name": "Aero Thunder - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 247.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/aero_thunder_white.jpg",
+                "toy_name": "Aero Thunder - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 2,
+                "price": 242.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/aero_thunder_orange.jpg",
+                "toy_name": "Aero Thunder - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 4,
+                "price": 244.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/aero_thunder_purple.jpg",
+                "toy_name": "Aero Thunder - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 0,
+                "price": 246.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/aero_thunder_silver.jpg",
+                "toy_name": "Aero Thunder - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 249.49
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "picture": "https://example.com/toy_car_23.jpg",
+        "name": "Dragster Dominator",
+        "rating": 4.9,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/dragster_dominator_red.jpg",
+                "toy_name": "Dragster Dominator - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 5,
+                "price": 259.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/dragster_dominator_blue.jpg",
+                "toy_name": "Dragster Dominator - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 2,
+                "price": 263.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/dragster_dominator_green.jpg",
+                "toy_name": "Dragster Dominator - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 261.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/dragster_dominator_yellow.jpg",
+                "toy_name": "Dragster Dominator - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 265.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/dragster_dominator_pink.jpg",
+                "toy_name": "Dragster Dominator - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 1,
+                "price": 260.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/dragster_dominator_black.jpg",
+                "toy_name": "Dragster Dominator - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 267.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/dragster_dominator_white.jpg",
+                "toy_name": "Dragster Dominator - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 2,
+                "price": 262.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/dragster_dominator_orange.jpg",
+                "toy_name": "Dragster Dominator - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 4,
+                "price": 264.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/dragster_dominator_purple.jpg",
+                "toy_name": "Dragster Dominator - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 0,
+                "price": 266.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/dragster_dominator_silver.jpg",
+                "toy_name": "Dragster Dominator - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 269.49
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "picture": "https://example.com/toy_car_24.jpg",
+        "name": "Rugged Racer",
+        "rating": 4.1,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/rugged_racer_red.jpg",
+                "toy_name": "Rugged Racer - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 5,
+                "price": 279.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/rugged_racer_blue.jpg",
+                "toy_name": "Rugged Racer - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 2,
+                "price": 283.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/rugged_racer_green.jpg",
+                "toy_name": "Rugged Racer - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 281.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/rugged_racer_yellow.jpg",
+                "toy_name": "Rugged Racer - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 285.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/rugged_racer_pink.jpg",
+                "toy_name": "Rugged Racer - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 1,
+                "price": 280.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/rugged_racer_black.jpg",
+                "toy_name": "Rugged Racer - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 287.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/rugged_racer_white.jpg",
+                "toy_name": "Rugged Racer - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 2,
+                "price": 282.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/rugged_racer_orange.jpg",
+                "toy_name": "Rugged Racer - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 4,
+                "price": 284.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/rugged_racer_purple.jpg",
+                "toy_name": "Rugged Racer - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 0,
+                "price": 286.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/rugged_racer_silver.jpg",
+                "toy_name": "Rugged Racer - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 289.49
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "picture": "https://example.com/toy_car_25.jpg",
+        "name": "Thunderstorm Fury",
+        "rating": 4.0,
+        "subcategories": [
+            {
+                "id": 1,
+                "picture": "https://example.com/thunderstorm_fury_red.jpg",
+                "toy_name": "Thunderstorm Fury - Red Edition",
+                "seller": "SpeedyToys",
+                "available_quantity": 5,
+                "price": 299.99
+            },
+            {
+                "id": 2,
+                "picture": "https://example.com/thunderstorm_fury_blue.jpg",
+                "toy_name": "Thunderstorm Fury - Blue Edition",
+                "seller": "ToyLand",
+                "available_quantity": 2,
+                "price": 303.99
+            },
+            {
+                "id": 3,
+                "picture": "https://example.com/thunderstorm_fury_green.jpg",
+                "toy_name": "Thunderstorm Fury - Green Edition",
+                "seller": "FunPlayWorld",
+                "available_quantity": 0,
+                "price": 301.49
+            },
+            {
+                "id": 4,
+                "picture": "https://example.com/thunderstorm_fury_yellow.jpg",
+                "toy_name": "Thunderstorm Fury - Yellow Edition",
+                "seller": "HappyKids",
+                "available_quantity": 0,
+                "price": 305.99
+            },
+            {
+                "id": 5,
+                "picture": "https://example.com/thunderstorm_fury_pink.jpg",
+                "toy_name": "Thunderstorm Fury - Pink Edition",
+                "seller": "PlayfulWorld",
+                "available_quantity": 1,
+                "price": 300.99
+            },
+            {
+                "id": 6,
+                "picture": "https://example.com/thunderstorm_fury_black.jpg",
+                "toy_name": "Thunderstorm Fury - Black Edition",
+                "seller": "SuperToys",
+                "available_quantity": 0,
+                "price": 307.99
+            },
+            {
+                "id": 7,
+                "picture": "https://example.com/thunderstorm_fury_white.jpg",
+                "toy_name": "Thunderstorm Fury - White Edition",
+                "seller": "ToyEmporium",
+                "available_quantity": 2,
+                "price": 302.49
+            },
+            {
+                "id": 8,
+                "picture": "https://example.com/thunderstorm_fury_orange.jpg",
+                "toy_name": "Thunderstorm Fury - Orange Edition",
+                "seller": "MegaToys",
+                "available_quantity": 4,
+                "price": 304.99
+            },
+            {
+                "id": 9,
+                "picture": "https://example.com/thunderstorm_fury_purple.jpg",
+                "toy_name": "Thunderstorm Fury - Purple Edition",
+                "seller": "ToyHaven",
+                "available_quantity": 0,
+                "price": 306.49
+            },
+            {
+                "id": 10,
+                "picture": "https://example.com/thunderstorm_fury_silver.jpg",
+                "toy_name": "Thunderstorm Fury - Silver Edition",
+                "seller": "KidzPlay",
+                "available_quantity": 3,
+                "price": 309.49
+            }
+        ]
+    }
+]
